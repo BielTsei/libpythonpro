@@ -5,4 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto - opensou
 
 Link do curso [Python Pro](https://pythonpro.com.br/)
 
-1. pip
+Tópicos a serem abordados:
+ 1. Git
+ 2. Virtualenv
+ 3. Pip
+
